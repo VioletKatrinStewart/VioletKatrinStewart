@@ -3,10 +3,10 @@
 ### My name is Violet Katrin. For the past six months I have immersed myself in Learning React, Node JS, Javascript and related frameworks. I am a curious and empathetic person who is looking to find her role in a diverse team of creative individuals. I also hope to foster relationships that allow me to mentor other LGBTQ+ individuals on their journey breaking into a field in software development. I am happiest when I am learning something new. 
 
 ### 🌱 • Languages: 
-• JavaScript, HTML/CSS
-• Frameworks/Libraries: jQuery, Bootstrap
-• Tools: Git, Slack, GitHub
-• Dev Practices: TDD/BDD
+• JavaScript, HTML, CSS
+• Frameworks/Libraries: jQuery, Bootstrap, REACT
+• Tools: Git, Slack, GitHub, Heroku, Netlify
+• Dev Practices: TDD/BDD, remote mob and pair programming
 
 ### 📫 How to reach me: https://www.linkedin.com/in/violet-katrin-stewart
 
